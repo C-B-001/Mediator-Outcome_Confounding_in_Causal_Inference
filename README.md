@@ -1,8 +1,8 @@
-# [Your Project Title Here]
+# Mediator-Outcome Confounding in Causal Inference
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+https://github.com/C-B-001/Mediator-Outcome_Confounding_in_Causal_Inference
 
 ## Description
 
